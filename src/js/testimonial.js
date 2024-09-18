@@ -5,7 +5,7 @@ const testimonials = [
         image: "/src/images/testimonial1.avif",
         avatar: "/src/images/avatar1.avif",
         service: "Manufacturing Service",
-        quote: "Will Sparrow Technologies transformed our manufacturing process with their IoT solution. We've seen a 30% increase in efficiency since implementation."
+        quote: "Will Sparrow Technologies transformed our manufacturing process with their IoT solution. We've seen a 30% increase in efficiency since implementations."
     },
     {
         name: "Jane Smith",
