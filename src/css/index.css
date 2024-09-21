@@ -103,7 +103,7 @@
 }
 
 .stats-section {
-    background-image: url('https://img.freepik.com/free-photo/colleagues-giving-fist-bump_53876-64857.jpg?t=st=1726567434~exp=1726571034~hmac=f5d61235b7cea25f7fc4f124490427273d275672a0a018e178ee212892257451&w=1380');
+    background-image: url('/src/images/stats.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
