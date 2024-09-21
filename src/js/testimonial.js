@@ -2,7 +2,7 @@ const testimonials = [
     {
         name: "John Doe",
         position: "CEO, Acme Corp",
-        image: "/src/images/testimonial1.avif",
+        image: "/src/images/testimonial1.jpg",
         avatar: "/src/images/avatar1.avif",
         service: "Manufacturing Service",
         quote: "Will Sparrow Technologies transformed our manufacturing process with their IoT solution. We've seen a 30% increase in efficiency since implementations."
@@ -10,7 +10,7 @@ const testimonials = [
     {
         name: "Jane Smith",
         position: "CTO, Tech Innovators",
-        image: "/src/images/testimonial2.avif",
+        image: "/src/images/testimonia2.jpg",
         avatar: "/src/images/avatar2.avif",
         service: "Software Development",
         quote: "The custom software solution provided by Will Sparrow Technologies has streamlined our operations significantly. Our productivity has improved by 40%."
@@ -18,7 +18,7 @@ const testimonials = [
     {
         name: "Alex Johnson",
         position: "COO, Global Logistics",
-        image: "/src/images/testimonial3.avif",
+        image: "/src/images/testimonial3.jpg",
         avatar: "/src/images/avatar3.avif",
         service: "Supply Chain Optimization",
         quote: "Will Sparrow's AI-driven supply chain solution has revolutionized our logistics. We've cut costs by 25% and improved delivery times by 35%."
